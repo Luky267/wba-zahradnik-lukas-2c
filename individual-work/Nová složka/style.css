@@ -3,12 +3,18 @@ body {
 
   
 }
-.headline-1{
-  width: 100%;
+.container{
+  justify-items:center ;
+
 }
-.logo_size_invert{
-  width: 50%;
+.header-logo{
+  max-width: 20px;
+  
 }
+.navbar{
+  justify-content: center;
+}
+
 /* Barvy
 Světlá barva pozadí: #f2b880
 Tmavší barvy pozadí za obrázkem: #e88121
